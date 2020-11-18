@@ -1,10 +1,12 @@
 body {
     background-image: url(https://github.com/Oth-mane1/Calm/blob/main/images/lake.jpg?raw=true);
+    background-image: url(../images/lake.jpg);
     text-align: center;
 }
 
 .card {
     margin: 1em;
+    max-width: 33rem;
     text-align: center;
 }
 
